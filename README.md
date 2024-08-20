@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cursed-Tarrgon
+- 👋 Hi, I’m @Cursed-Tarragon
 - 👀 I’m interested in learning programming for fun and as a future career path
 - 🌱 I’m currently learning C, C++, Python, and others if I find the time
 - 💞️ I’m looking to collaborate on anything basic that could me learn and improve my skills as I have forgot most of it
